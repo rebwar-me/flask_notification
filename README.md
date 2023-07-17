@@ -7,9 +7,9 @@
 	source env/bin/activate
 
 5-install :
-	pip install flask
-	pip install redis
-	pip install rq
-	pip install Flask-SocketIO
-	pip install eventlet
-	pip install cryptography
+	pip install flask - 
+	pip install redis - 
+	pip install rq - 
+	pip install Flask-SocketIO - 
+	pip install eventlet - 
+	pip install cryptography - 
